@@ -1,6 +1,6 @@
-# Docker Lamp Stack with Prometheus and cAdvisor
+# Docker PHP MySQL Stack with Prometheus and cAdvisor
 
-The purpose of this repository is to make a Docker Lamp Stack.
+The purpose of this repository is to make a Docker PHP MySQL Stack.
 
 ## PHP and MySQL
 Execute <code>docker-compose up -d</code> in the terminal and load <b>http://localhost:8100/</b> in your browser.
